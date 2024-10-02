@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 0, 0, 0.692);
+    background: url('img/bg-desktop.webp');
     font-family: 'Bai Jamjuree';
 }
 
@@ -36,7 +36,7 @@ body{
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(246, 191, 191);
     color: white;
     position: fixed;
     bottom: 0;
